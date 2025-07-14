@@ -1,0 +1,5 @@
+.env
+FluidR3_GM.sf2
+SDL3.dll
+__pycache__/
+models/pytorch_model.bin
